@@ -38,13 +38,21 @@ Admin paneli, otelin tüm yönetimsel işlevlerini kolayca yöneten güçlü bir
 
 ## Kullanılan Teknolojiler
 
-- **C#** - Backend dili
-- **ASP.NET Core** - Web çatısı
-- **MSSQL** - Veritabanı
-- **Entity Framework** - Veritabanı işlemleri
-- **Swagger, Postman** - API testi
-- **MailKit** - E-posta gönderimi
-- **RapidAPI** - Sosyal medya ve döviz API entegrasyonu
+- **C#** - Backend geliştirme için kullanılan programlama dili.
+- **N Katmanlı Mimari ile oluşturuldu.
+- **MSSQL** - Veritabanı yönetim sistemi olarak Microsoft SQL Server kullanıldı.
+- **Entity Framework** - Veritabanı işlemleri ve ORM (Object-Relational Mapping) için kullanıldı.
+- **Swagger, Postman** - API'lerin test edilmesi için kullanılan araçlar.
+- **MailKit** - E-posta gönderimi için kullanılan kütüphane.
+- **RapidAPI** - Dış API'lerle entegrasyon sağlamak için sosyal medya takipçi verisi ve döviz kuru gibi veriler alındı.
+- **Identity** - Kullanıcı kimlik doğrulama ve yetkilendirme işlemleri için kullanıldı.
+- **JWT** - JSON Web Token ile kullanıcı oturumu yönetimi sağlandı.
+- **AutoMapper** - DTO (Data Transfer Object) ile verilerin dönüşümünü gerçekleştirdi.
+- **Fluent Validation** - Kullanıcı giriş doğrulama işlemleri için kullanıldı.
+- **CodeFirst Yaklaşımı** - Veritabanı tasarımında CodeFirst yöntemi kullanılarak Entity Framework ile modelleme yapıldı.
+- **Repository Design Pattern** - Katmanlar arası bağımsızlık sağlanarak iş mantığı daha modüler ve yeniden kullanılabilir hale getirildi.
+- **RapidAPI** - Dış servislerden dinamik verilerin çekilmesi sağlandı (Örneğin: Döviz Kurları, Sosyal Medya Takipçi Sayıları).
+
 
   
 ## Admin
