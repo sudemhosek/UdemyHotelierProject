@@ -1,0 +1,17 @@
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\bin\Debug\net6.0\HotelierProject.DtoLayer.deps.json
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\bin\Debug\net6.0\HotelierProject.DtoLayer.runtimeconfig.json
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\bin\Debug\net6.0\HotelierProject.DtoLayer.dll
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\bin\Debug\net6.0\HotelierProject.DtoLayer.pdb
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\bin\Debug\net6.0\HotelierProject.EntityLayer.dll
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\bin\Debug\net6.0\HotelierProject.EntityLayer.pdb
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\obj\Debug\net6.0\HotelierProject.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\obj\Debug\net6.0\HotelierProject.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\obj\Debug\net6.0\HotelierProject.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\obj\Debug\net6.0\HotelierProject.DtoLayer.AssemblyInfo.cs
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\obj\Debug\net6.0\HotelierProject.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\obj\Debug\net6.0\HotelierProject.DtoLayer.csproj.CopyComplete
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\obj\Debug\net6.0\HotelierProject.DtoLayer.dll
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\obj\Debug\net6.0\refint\HotelierProject.DtoLayer.dll
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\obj\Debug\net6.0\HotelierProject.DtoLayer.pdb
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\obj\Debug\net6.0\HotelierProject.DtoLayer.genruntimeconfig.cache
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DtoLayer\obj\Debug\net6.0\ref\HotelierProject.DtoLayer.dll

@@ -1,0 +1,14 @@
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.EntityLayer\bin\Debug\net6.0\HotelierProject.EntityLayer.deps.json
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.EntityLayer\bin\Debug\net6.0\HotelierProject.EntityLayer.runtimeconfig.json
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.EntityLayer\bin\Debug\net6.0\HotelierProject.EntityLayer.dll
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.EntityLayer\bin\Debug\net6.0\HotelierProject.EntityLayer.pdb
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.EntityLayer\obj\Debug\net6.0\HotelierProject.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.EntityLayer\obj\Debug\net6.0\HotelierProject.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.EntityLayer\obj\Debug\net6.0\HotelierProject.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.EntityLayer\obj\Debug\net6.0\HotelierProject.EntityLayer.AssemblyInfo.cs
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.EntityLayer\obj\Debug\net6.0\HotelierProject.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.EntityLayer\obj\Debug\net6.0\HotelierProject.EntityLayer.dll
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.EntityLayer\obj\Debug\net6.0\refint\HotelierProject.EntityLayer.dll
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.EntityLayer\obj\Debug\net6.0\HotelierProject.EntityLayer.pdb
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.EntityLayer\obj\Debug\net6.0\HotelierProject.EntityLayer.genruntimeconfig.cache
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.EntityLayer\obj\Debug\net6.0\ref\HotelierProject.EntityLayer.dll

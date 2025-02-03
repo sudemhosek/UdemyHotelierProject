@@ -1,0 +1,17 @@
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\bin\Debug\net6.0\HotelierProject.DataAccessLayer.deps.json
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\bin\Debug\net6.0\HotelierProject.DataAccessLayer.runtimeconfig.json
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\bin\Debug\net6.0\HotelierProject.DataAccessLayer.dll
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\bin\Debug\net6.0\HotelierProject.DataAccessLayer.pdb
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\bin\Debug\net6.0\HotelierProject.EntityLayer.dll
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\bin\Debug\net6.0\HotelierProject.EntityLayer.pdb
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\obj\Debug\net6.0\HotelierProject.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\obj\Debug\net6.0\HotelierProject.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\obj\Debug\net6.0\HotelierProject.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\obj\Debug\net6.0\HotelierProject.DataAccessLayer.AssemblyInfo.cs
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\obj\Debug\net6.0\HotelierProject.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\obj\Debug\net6.0\HotelierProject.DataAccessLayer.csproj.CopyComplete
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\obj\Debug\net6.0\HotelierProject.DataAccessLayer.dll
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\obj\Debug\net6.0\refint\HotelierProject.DataAccessLayer.dll
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\obj\Debug\net6.0\HotelierProject.DataAccessLayer.pdb
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\obj\Debug\net6.0\HotelierProject.DataAccessLayer.genruntimeconfig.cache
+C:\Users\merye\source\repos\HotelierProject\HotelierProject.DataAccessLayer\obj\Debug\net6.0\ref\HotelierProject.DataAccessLayer.dll
