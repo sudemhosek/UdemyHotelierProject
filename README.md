@@ -47,20 +47,15 @@ Admin paneli, otelin tüm yönetimsel işlevlerini kolayca yöneten güçlü bir
 - **RapidAPI** - Sosyal medya ve döviz API entegrasyonu
 
 
-![Image](https://github.com/user-attachments/assets/f9402b3b-98ce-48ba-8299-8257d0c895e1)
+![Image](https://github.com/user-attachments/assets/e41a0ba4-7218-4967-9f33-a9bd5355041d)
+![Image](https://github.com/user-attachments/assets/554ede68-c16f-42df-9077-d649c30d7919)
+![Image](https://github.com/user-attachments/assets/e9f008b7-0bf3-439e-934c-e2fda4abc6d0)
+![Image](https://github.com/user-attachments/assets/341c8492-30af-4120-ac84-9ae6a8cd0db1)
+![Image](https://github.com/user-attachments/assets/0769ebf6-fc6a-4aa6-9b87-0cd3d673a47b)
+![Image](https://github.com/user-attachments/assets/0cc8ceb6-3991-4f49-897f-681f78336ef1)
 
-![Image](https://github.com/user-attachments/assets/fe0198fd-ddf7-4f5b-95f6-f8ab6192cb9b)
+![Image](https://github.com/user-attachments/assets/14be73af-7f23-4535-967f-14fa86a14110)
 
-![Image](https://github.com/user-attachments/assets/04ee7a47-ea1c-494a-85c1-b796a9e021d2)
+![Image](https://github.com/user-attachments/assets/15029a0e-bd7d-44ff-9c63-327698fb5f17)
 
-![Image](https://github.com/user-attachments/assets/5abe96e0-137b-4ba7-9222-6790ede800be)
-
-![Image](https://github.com/user-attachments/assets/301aa5c7-d3e6-465e-923f-abc43c9d5b02)
-
-![Image](https://github.com/user-attachments/assets/650c30f8-f346-4344-8d13-459268ce97cf)
-
-![Image](https://github.com/user-attachments/assets/744e9814-7024-4038-85aa-be0c9b8af9b3)
-
-![Image](https://github.com/user-attachments/assets/759f356f-360a-4631-ac71-7e4af4e41cd7)
-
-![Image](https://github.com/user-attachments/assets/b5b08423-c912-402f-88cd-7e3a1899c300)
+![Image](https://github.com/user-attachments/assets/59fd9abb-14d6-4be4-b404-fb434e79a502)
